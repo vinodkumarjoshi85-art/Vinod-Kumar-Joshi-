@@ -1,5 +1,5 @@
-```html
 <!DOCTYPE html>
+
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
@@ -22,7 +22,7 @@ main{max-width:750px;margin:auto;padding:14px}
 <p>Live matches · Scoreboard</p>
 </header>
 <main>
-<h3>🇮🇳 India Men's Team & Other Matches</h3>
+<h3>🇮🇳 India Men's Team &amp; Other Matches</h3>
 <p id="status" class="small">स्कोर लोड हो रहा है...</p>
 <div id="matches"></div>
 </main>
@@ -31,55 +31,53 @@ const matchesBox=document.getElementById('matches');
 const statusBox=document.getElementById('status');
 
 function esc(value){
- return String(value??'').replace(/[&<>"']/g,c=>({
- '&':'&amp;','<':'&lt;','>':'&gt;',
- '"':'&quot;',"'":'&#39;'
- }[c]));
+return String(value??'').replace(/[&<>"']/g,c=>({
+'&':'&','<':'<','>':'>',
+'"':'"',"'":'''
+}[c]));
 }
 
 async function loadMatches(){
- statusBox.textContent='स्कोर अपडेट हो रहा है...';
- try{
-  const response=await fetch('./matches.json?t='+Date.now());
-  if(!response.ok) throw new Error('matches.json नहीं खुली');
-  const result=await response.json();
-  const data=Array.isArray(result.data)?result.data:
-             Array.isArray(result)?result:[];
-  const india=data.filter(m=>
-   (m.teams||[]).some(t=>/india/i.test(t)) &&
-   !/women|u19|under.?19|emerging/i.test((m.teams||[]).join(' '))
-  );
-  const other=data.filter(m=>!india.includes(m));
-  const ordered=[...india,...other];
-  matchesBox.innerHTML='';
-  ordered.forEach(match=>{
-   const teams=Array.isArray(match.teams)?match.teams:[];
-   const scores=Array.isArray(match.score)?match.score:[];
-   const scoreText=scores.map(s=>
-    `${s.inning||''}: ${s.r??0}/${s.w??0} (${s.o??0} ओवर)`
-   ).join('<br>');
-   const card=document.createElement('div');
-   card.className='match';
-   card.innerHTML=
-    '<div class="name">'+esc(match.name||teams.join(' बनाम '))+'</div>'+
-    '<div class="score">'+(scoreText||'स्कोर उपलब्ध नहीं')+'</div>'+
-    '<div>'+esc(match.status||'स्थिति उपलब्ध नहीं')+'</div>'+
-    '<p class="small">'+esc(match.matchType||'')+' · '+
-    esc(match.venue||'')+'</p>';
-   matchesBox.appendChild(card);
-  });
-  if(!data.length) matchesBox.textContent='अभी कोई मैच उपलब्ध नहीं है।';
-  statusBox.textContent=india.length?
-   'India के '+india.length+' मैच मिले · अन्य मैच नीचे हैं।':
-   'डेटा अपडेट हो गया। अभी India Men's Team का मैच सूची में नहीं मिला।';
- }catch(error){
-  statusBox.textContent='स्कोर लोड नहीं हुआ। कुछ देर बाद फिर कोशिश करें।';
-  console.error(error);
- }
+statusBox.textContent='स्कोर अपडेट हो रहा है...';
+try{
+const response=await fetch('./matches.json?t='+Date.now());
+if(!response.ok) throw new Error('JSON load failed');
+const result=await response.json();
+const data=Array.isArray(result.data)?result.data:
+Array.isArray(result)?result:[];
+const india=data.filter(m=>
+(m.teams||[]).some(t=>/india/i.test(t)) &&
+!/women|u19|under.?19|emerging/i.test((m.teams||[]).join(' '))
+);
+const ordered=[...india,...data.filter(m=>!india.includes(m))];
+matchesBox.innerHTML='';
+ordered.forEach(match=>{
+const teams=Array.isArray(match.teams)?match.teams:[];
+const scores=Array.isArray(match.score)?match.score:[];
+const scoreText=scores.map(s=>
+`${s.inning||''}: ${s.r??0}/${s.w??0} (${s.o??0} ओवर)`
+).join('<br>');
+const card=document.createElement('div');
+card.className='match';
+card.innerHTML=
+'<div class="name">'+esc(match.name||teams.join(' बनाम '))+'</div>'+
+'<div class="score">'+(scoreText||'स्कोर उपलब्ध नहीं')+'</div>'+
+'<div>'+esc(match.status||'स्थिति उपलब्ध नहीं')+'</div>'+
+'<p class="small">'+esc(match.matchType||'')+' · '+
+esc(match.venue||'')+'</p>';
+matchesBox.appendChild(card);
+});
+statusBox.textContent=india.length?
+'India के '+india.length+' मैच मिले · अन्य मैच नीचे हैं।':
+'डेटा अपडेट हुआ। अभी India Men का मैच उपलब्ध सूची में नहीं मिला।';
+if(!data.length) matchesBox.textContent='अभी कोई मैच उपलब्ध नहीं है।';
+}catch(error){
+statusBox.textContent='स्कोर लोड नहीं हुआ। कुछ देर बाद फिर कोशिश करें।';
+console.error(error);
+}
 }
 loadMatches();
-setInterval(loadMatches,15*60*1000);
-</script>
+setInterval(loadMatches,15*60*1000); </script>
+
 </body>
 </html>
-```
