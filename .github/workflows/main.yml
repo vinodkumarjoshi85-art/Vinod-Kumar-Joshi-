@@ -1,4 +1,22 @@
 
+name: Update Cricket Scores
+
+'on':
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Fetch cricket scores
         env:
           CRICKET_API_KEY: ${{ secrets.CRICKET_API_KEY }}
@@ -9,7 +27,7 @@
             --data-urlencode "offset=0" \
             --output response.json
 
-          python3 -c "import json; p='response.json'; d=json.load(open(p)); d.pop('apikey', None); json.dump(d, open('matches.json','w'), indent=2)"
+          python3 -c "import json; d=json.load(open('response.json')); d.pop('apikey', None); json.dump(d, open('matches.json','w'), indent=2)"
 
       - name: Save updated scores
         run: |
