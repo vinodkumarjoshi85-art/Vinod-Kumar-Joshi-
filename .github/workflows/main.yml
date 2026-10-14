@@ -28,7 +28,7 @@ jobs:
               "apikey": key,
               "offset": "0"
           })
-          url = "https://api.cricapi.com/v1/currentMatches?" + params
+          url = "https://api.cricapi.com/v1/currentMatches?" + params 
 
           req = urllib.request.Request(url)
           with urllib.request.urlopen(req, timeout=30) as response:
