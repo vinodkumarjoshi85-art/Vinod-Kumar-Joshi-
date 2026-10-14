@@ -29,9 +29,19 @@ main{max-width:750px;margin:auto;padding:14px}
 <script>
 const matchesBox=document.getElementById('matches');
 const statusBox=document.getElementById('status');
-
 function esc(value){
-return String(value??'').replace(/[&<>"']/g,c=>({
+return String(value ?? '').replace(/[&<>"']/g, function(c) {
+return {
+'&': '&',
+'<': '<',
+'>': '>',
+'"': '"',
+"'": '''
+}[c];
+});
+}
+
+
 '&':'&','<':'<','>':'>',
 '"':'"',"'":'''
 }[c]));
