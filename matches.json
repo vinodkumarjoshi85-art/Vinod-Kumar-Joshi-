@@ -1110,14 +1110,14 @@
   ],
   "status": "success",
   "info": {
-    "hitsToday": 55,
+    "hitsToday": 56,
     "hitsUsed": 1,
     "hitsLimit": 100,
     "credits": 0,
-    "server": 18,
+    "server": 20,
     "offsetRows": 0,
     "totalRows": 74,
-    "queryTime": 33.0917,
+    "queryTime": 37.874,
     "s": 0,
     "cache": 1
   }
