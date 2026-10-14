@@ -19,15 +19,79 @@ jobs:
 
       - name: Fetch cricket scores
         env:
-          CRICKET_API_KEY: ${{ secrets.CRICKET_API_KEY }}
+          CRICKETLIVE_API_TOKEN: ${{ secrets.CRICKETLIVE_API_TOKEN }}
         run: |
-          curl --fail --silent --show-error --get \
-            "https://api.cricapi.com/v1/currentMatches" \
-            --data-urlencode "apikey=${CRICKET_API_KEY}" \
-            --data-urlencode "offset=0" \
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer ${CRICKETLIVE_API_TOKEN}" \
+            -H "Accept: application/json" \
+            "https://cricketliveapi.com/api/v1/cricket/live" \
             --output response.json
 
-          python3 -c "import json; d=json.load(open('response.json')); d.pop('apikey', None); json.dump(d, open('matches.json','w'), indent=2)"
+          python3 - <<'PY'
+          import json, re
+
+          with open("response.json", encoding="utf-8") as f:
+              payload = json.load(f)
+
+          data = payload.get("data", [])
+          if isinstance(data, dict):
+              data = data.get("matches", [])
+
+          if not isinstance(data, list):
+              raise ValueError("API response format unexpected")
+
+          matches = []
+
+          for m in data:
+              teams_value = m.get("teams", [])
+              if isinstance(teams_value, str):
+                  teams = re.split(r"\s+vs\.?\s+", teams_value, flags=re.I)
+              elif isinstance(teams_value, list):
+                  teams = teams_value
+              else:
+                  teams = []
+
+              if not teams:
+                  teams = [
+                      m.get("team1", ""),
+                      m.get("team2", "")
+                  ]
+                  teams = [t for t in teams if t]
+
+              raw_score = m.get("score", "")
+              scores = []
+
+              if isinstance(raw_score, str):
+                  for part in re.split(r"\s*\|\s*", raw_score):
+                      found = re.search(
+                          r"(\d+)\s*/\s*(\d+)(?:\s*\(([\d.]+)\s*ov)?",
+                          part,
+                          re.I
+                      )
+                      if found:
+                          scores.append({
+                              "inning": "",
+                              "r": int(found.group(1)),
+                              "w": int(found.group(2)),
+                              "o": found.group(3) or "0"
+                          })
+
+              matches.append({
+                  "name": m.get("teams") if isinstance(
+                      m.get("teams"), str
+                  ) else " vs ".join(teams),
+                  "teams": teams,
+                  "matchType": m.get("format", m.get("matchType", "")),
+                  "venue": m.get("venue", ""),
+                  "status": m.get("status", ""),
+                  "score": scores
+              })
+
+          with open("matches.json", "w", encoding="utf-8") as f:
+              json.dump({"data": matches}, f, ensure_ascii=False, indent=2)
+
+          print("Matches saved:", len(matches))
+          PY
 
       - name: Save updated scores
         run: |
