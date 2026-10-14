@@ -1074,6 +1074,18 @@
         "China",
         "Saudi Arabia"
       ],
+      "teamInfo": [
+        {
+          "name": "China",
+          "shortname": "CHN",
+          "img": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=48"
+        },
+        {
+          "name": "Saudi Arabia",
+          "shortname": "SAU",
+          "img": "https://g.cricapi.com/iapi/649-637877090170801940.webp?w=48"
+        }
+      ],
       "score": [
         {
           "r": 98,
@@ -1098,15 +1110,15 @@
   ],
   "status": "success",
   "info": {
-    "hitsToday": 45,
+    "hitsToday": 50,
     "hitsUsed": 1,
     "hitsLimit": 100,
     "credits": 0,
-    "server": 14,
+    "server": 20,
     "offsetRows": 0,
-    "totalRows": 73,
-    "queryTime": 45.4237,
+    "totalRows": 74,
+    "queryTime": 47.0848,
     "s": 0,
-    "cache": 1
+    "cache": 0
   }
 }
