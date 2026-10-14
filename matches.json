@@ -1110,15 +1110,15 @@
   ],
   "status": "success",
   "info": {
-    "hitsToday": 53,
+    "hitsToday": 54,
     "hitsUsed": 1,
     "hitsLimit": 100,
     "credits": 0,
-    "server": 5,
+    "server": 22,
     "offsetRows": 0,
     "totalRows": 74,
-    "queryTime": 32.0264,
+    "queryTime": 43.3944,
     "s": 0,
-    "cache": 1
+    "cache": 0
   }
 }
