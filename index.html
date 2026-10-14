@@ -1,4 +1,4 @@
-
+```html
 <!DOCTYPE html>
 <html lang="hi">
 <head>
@@ -10,10 +10,7 @@ body{margin:0;background:#08111f;color:white;font-family:Arial,sans-serif}
 header{background:#102b45;padding:18px;text-align:center}
 h1{margin:0;color:#53e0c1;font-size:24px}
 main{max-width:750px;margin:auto;padding:14px}
-.panel,.match{background:#132237;padding:15px;border-radius:12px;margin:12px 0}
-input,button{box-sizing:border-box;width:100%;padding:12px;margin-top:8px;border-radius:7px;border:0}
-button{background:#10b99a;color:#061b20;font-weight:bold}
-.match{border:1px solid #29415c}
+.match{background:#132237;padding:15px;border-radius:12px;margin:12px 0;border:1px solid #29415c}
 .name{font-size:17px;font-weight:bold}
 .score{font-size:22px;color:#53e0c1;margin:10px 0}
 .small{color:#bdc8d6;font-size:13px}
@@ -25,31 +22,13 @@ button{background:#10b99a;color:#061b20;font-weight:bold}
 <p>Live matches · Scoreboard</p>
 </header>
 <main>
-<div class="panel">
-<h3>API सेटिंग</h3>
-<p class="small">अपनी क्रिकेट डेटा API key यहाँ डालें। इसे सार्वजनिक कोड में न लिखें।</p>
-<input id="key" type="password" placeholder="अपनी API Key डालें">
-<button onclick="saveKey()">Key सेव करें</button>
-<button onclick="loadMatches()">स्कोर अपडेट करें</button>
-<p id="status" class="small">पहले API Key सेव करें।</p>
-</div>
-<h3>🏏 मैचों की सूची</h3>
-<div id="matches">मैच देखने के लिए API Key डालें।</div>
-<p class="small">ऑटो-रिफ्रेश: हर 15 मिनट। डेटा उपलब्धता API पर निर्भर है।</p>
+<h3>🇮🇳 India Men's Team & Other Matches</h3>
+<p id="status" class="small">स्कोर लोड हो रहा है...</p>
+<div id="matches"></div>
 </main>
 <script>
-const keyInput=document.getElementById('key');
-const statusBox=document.getElementById('status');
 const matchesBox=document.getElementById('matches');
-
-function saveKey(){
- const key=keyInput.value.trim();
- if(!key){statusBox.textContent='पहले API Key डालें।';return;}
- localStorage.setItem('cricket_api_key',key);
- keyInput.value='';
- statusBox.textContent='Key इस ब्राउज़र में सेव हो गई।';
- loadMatches();
-}
+const statusBox=document.getElementById('status');
 
 function esc(value){
  return String(value??'').replace(/[&<>"']/g,c=>({
@@ -59,28 +38,26 @@ function esc(value){
 }
 
 async function loadMatches(){
- const key=localStorage.getItem('cricket_api_key');
- if(!key){
-  statusBox.textContent='API Key की जरूरत है।';
-  return;
- }
- statusBox.textContent='स्कोर लोड हो रहा है...';
+ statusBox.textContent='स्कोर अपडेट हो रहा है...';
  try{
-  const url='https://api.cricapi.com/v1/currentMatches?apikey='
-    +encodeURIComponent(key)+'&offset=0';
-  const response=await fetch(url);
-  if(!response.ok) throw new Error('HTTP '+response.status);
+  const response=await fetch('./matches.json?t='+Date.now());
+  if(!response.ok) throw new Error('matches.json नहीं खुली');
   const result=await response.json();
-  if(result.status==='failure'||!Array.isArray(result.data)){
-   throw new Error(result.reason||'डेटा उपलब्ध नहीं है');
-  }
+  const data=Array.isArray(result.data)?result.data:
+             Array.isArray(result)?result:[];
+  const india=data.filter(m=>
+   (m.teams||[]).some(t=>/india/i.test(t)) &&
+   !/women|u19|under.?19|emerging/i.test((m.teams||[]).join(' '))
+  );
+  const other=data.filter(m=>!india.includes(m));
+  const ordered=[...india,...other];
   matchesBox.innerHTML='';
-  result.data.forEach(match=>{
+  ordered.forEach(match=>{
+   const teams=Array.isArray(match.teams)?match.teams:[];
    const scores=Array.isArray(match.score)?match.score:[];
    const scoreText=scores.map(s=>
     `${s.inning||''}: ${s.r??0}/${s.w??0} (${s.o??0} ओवर)`
    ).join('<br>');
-   const teams=Array.isArray(match.teams)?match.teams:[];
    const card=document.createElement('div');
    card.className='match';
    card.innerHTML=
@@ -91,19 +68,18 @@ async function loadMatches(){
     esc(match.venue||'')+'</p>';
    matchesBox.appendChild(card);
   });
-  if(!result.data.length) matchesBox.textContent='अभी कोई मैच नहीं मिला।';
-  statusBox.textContent='अपडेट: '+new Date().toLocaleTimeString('hi-IN');
+  if(!data.length) matchesBox.textContent='अभी कोई मैच उपलब्ध नहीं है।';
+  statusBox.textContent=india.length?
+   'India के '+india.length+' मैच मिले · अन्य मैच नीचे हैं।':
+   'डेटा अपडेट हो गया। अभी India Men's Team का मैच सूची में नहीं मिला।';
  }catch(error){
-  statusBox.textContent='डेटा नहीं मिला। API Key, इंटरनेट या API की अनुमति जाँचें।';
+  statusBox.textContent='स्कोर लोड नहीं हुआ। कुछ देर बाद फिर कोशिश करें।';
   console.error(error);
  }
-}
-
-if(localStorage.getItem('cricket_api_key')){
- keyInput.placeholder='नई Key डालें या पुरानी सेव Key इस्तेमाल करें';
 }
 loadMatches();
 setInterval(loadMatches,15*60*1000);
 </script>
 </body>
 </html>
+```
