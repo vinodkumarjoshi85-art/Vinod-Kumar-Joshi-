@@ -35,7 +35,7 @@ jobs:
               data = json.load(response)
 
           with open("matches.json", "w") as f:
-              json.dump(data, f)
+              json.dump(data, f) 
 
           print("Cricket data file updated.")
           PY
