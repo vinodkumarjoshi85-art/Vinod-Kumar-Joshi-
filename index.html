@@ -1,19 +1,21 @@
-<!DOCTYPE html>
 
+<!DOCTYPE html>
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Live Cricket Score</title>
 <style>
-body{margin:0;background:#08111f;color:white;font-family:Arial,sans-serif}
+*{box-sizing:border-box}
+body{margin:0;background:#08111f;color:#fff;font-family:Arial,sans-serif}
 header{background:#102b45;padding:18px;text-align:center}
 h1{margin:0;color:#53e0c1;font-size:24px}
 main{max-width:750px;margin:auto;padding:14px}
 .match{background:#132237;padding:15px;border-radius:12px;margin:12px 0;border:1px solid #29415c}
 .name{font-size:17px;font-weight:bold}
-.score{font-size:22px;color:#53e0c1;margin:10px 0}
-.small{color:#bdc8d6;font-size:13px}
+.score{font-size:20px;color:#53e0c1;margin:10px 0;line-height:1.7}
+.small{color:#bdc8d6;font-size:13px;line-height:1.6}
+#status{background:#132237;padding:12px;border-radius:8px}
 </style>
 </head>
 <body>
@@ -21,73 +23,99 @@ main{max-width:750px;margin:auto;padding:14px}
 <h1>🏏 LIVE CRICKET SCORE</h1>
 <p>Live matches · Scoreboard</p>
 </header>
+
 <main>
 <h3>🇮🇳 India Men's Team &amp; Other Matches</h3>
-<p id="status" class="small">स्कोर लोड हो रहा है...</p>
+<p id="status">स्कोर लोड हो रहा है...</p>
 <div id="matches"></div>
+<p class="small">स्कोर हर 15 मिनट में अपडेट होता है। डेटा CricketData API पर निर्भर है।</p>
 </main>
+
 <script>
-const matchesBox=document.getElementById('matches');
-const statusBox=document.getElementById('status');
-function esc(value){
-return String(value ?? '').replace(/[&<>"']/g, function(c) {
-return {
-'&': '&',
-'<': '<',
-'>': '>',
-'"': '"',
-"'": '''
-}[c];
-});
+const matchesBox = document.getElementById('matches');
+const statusBox = document.getElementById('status');
+
+async function loadMatches() {
+  statusBox.textContent = 'स्कोर अपडेट हो रहा है...';
+
+  try {
+    const response = await fetch('./matches.json?t=' + Date.now(), {
+      cache: 'no-store'
+    });
+
+    if (!response.ok) {
+      throw new Error('matches.json नहीं खुली: HTTP ' + response.status);
+    }
+
+    const result = await response.json();
+    const data = Array.isArray(result.data)
+      ? result.data
+      : Array.isArray(result) ? result : [];
+
+    if (!data.length) {
+      matchesBox.replaceChildren();
+      statusBox.textContent = 'अभी कोई मैच उपलब्ध नहीं है।';
+      return;
+    }
+
+    const isIndiaMen = match => {
+      const teams = Array.isArray(match.teams) ? match.teams : [];
+      const teamNames = teams.join(' ');
+      return teams.some(team => /^india$/i.test(team.trim())) &&
+        !/women|u19|under.?19|emerging/i.test(teamNames);
+    };
+
+    const indiaMatches = data.filter(isIndiaMen);
+    const otherMatches = data.filter(match => !isIndiaMen(match));
+    const ordered = [...indiaMatches, ...otherMatches];
+
+    matchesBox.replaceChildren();
+
+    ordered.forEach(match => {
+      const card = document.createElement('div');
+      card.className = 'match';
+
+      const name = document.createElement('div');
+      name.className = 'name';
+      name.textContent = match.name ||
+        (Array.isArray(match.teams) ? match.teams.join(' बनाम ') : 'मैच');
+
+      const score = document.createElement('div');
+      score.className = 'score';
+
+      const scores = Array.isArray(match.score) ? match.score : [];
+      score.textContent = scores.length
+        ? scores.map(s =>
+            `${s.inning || ''}: ${s.r ?? 0}/${s.w ?? 0} (${s.o ?? 0} ओवर)`
+          ).join(' | ')
+        : 'स्कोर उपलब्ध नहीं';
+
+      const matchStatus = document.createElement('div');
+      matchStatus.textContent = match.status || 'स्थिति उपलब्ध नहीं';
+
+      const details = document.createElement('p');
+      details.className = 'small';
+      details.textContent =
+        (match.matchType || '') + ' · ' + (match.venue || '');
+
+      card.append(name, score, matchStatus, details);
+      matchesBox.appendChild(card);
+    });
+
+    statusBox.textContent = indiaMatches.length
+      ? `India Men's Team के ${indiaMatches.length} मैच मिले।`
+      : 'डेटा अपडेट हो गया। अभी India Men's Team का मैच उपलब्ध सूची में नहीं मिला।';
+
+  } catch (error) {
+    statusBox.textContent =
+      'स्कोर लोड नहीं हुआ: ' + error.message;
+    matchesBox.replaceChildren();
+    console.error(error);
+  }
 }
 
-
-'&':'&','<':'<','>':'>',
-'"':'"',"'":'''
-}[c]));
-}
-
-async function loadMatches(){
-statusBox.textContent='स्कोर अपडेट हो रहा है...';
-try{
-const response=await fetch('./matches.json?t='+Date.now());
-if(!response.ok) throw new Error('JSON load failed');
-const result=await response.json();
-const data=Array.isArray(result.data)?result.data:
-Array.isArray(result)?result:[];
-const india=data.filter(m=>
-(m.teams||[]).some(t=>/india/i.test(t)) &&
-!/women|u19|under.?19|emerging/i.test((m.teams||[]).join(' '))
-);
-const ordered=[...india,...data.filter(m=>!india.includes(m))];
-matchesBox.innerHTML='';
-ordered.forEach(match=>{
-const teams=Array.isArray(match.teams)?match.teams:[];
-const scores=Array.isArray(match.score)?match.score:[];
-const scoreText=scores.map(s=>
-`${s.inning||''}: ${s.r??0}/${s.w??0} (${s.o??0} ओवर)`
-).join('<br>');
-const card=document.createElement('div');
-card.className='match';
-card.innerHTML=
-'<div class="name">'+esc(match.name||teams.join(' बनाम '))+'</div>'+
-'<div class="score">'+(scoreText||'स्कोर उपलब्ध नहीं')+'</div>'+
-'<div>'+esc(match.status||'स्थिति उपलब्ध नहीं')+'</div>'+
-'<p class="small">'+esc(match.matchType||'')+' · '+
-esc(match.venue||'')+'</p>';
-matchesBox.appendChild(card);
-});
-statusBox.textContent=india.length?
-'India के '+india.length+' मैच मिले · अन्य मैच नीचे हैं।':
-'डेटा अपडेट हुआ। अभी India Men का मैच उपलब्ध सूची में नहीं मिला।';
-if(!data.length) matchesBox.textContent='अभी कोई मैच उपलब्ध नहीं है।';
-}catch(error){
-statusBox.textContent='स्कोर लोड नहीं हुआ। कुछ देर बाद फिर कोशिश करें।';
-console.error(error);
-}
-}
 loadMatches();
-setInterval(loadMatches,15*60*1000); </script>
-
+setInterval(loadMatches, 15 * 60 * 1000);
+</script>
 </body>
 </html>
