@@ -113,7 +113,7 @@ async function loadMatches() {
     console.error(error);
   }
 }
-
+statusBox.textContent = 'JavaScript चल रही है...';
 loadMatches();
 setInterval(loadMatches, 15 * 60 * 1000);
 </script>
