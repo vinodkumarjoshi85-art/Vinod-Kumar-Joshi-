@@ -41,7 +41,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -86,7 +86,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -131,7 +131,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -176,7 +176,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -221,7 +221,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -266,7 +266,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -311,7 +311,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -356,7 +356,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -395,7 +395,7 @@
       "series_id": "7ac098a3-5d70-4c81-8e81-199edbeffc29",
       "fantasyEnabled": true,
       "bbbEnabled": false,
-      "hasSquad": false,
+      "hasSquad": true,
       "matchStarted": true,
       "matchEnded": true
     },
@@ -1110,15 +1110,15 @@
   ],
   "status": "success",
   "info": {
-    "hitsToday": 50,
+    "hitsToday": 53,
     "hitsUsed": 1,
     "hitsLimit": 100,
     "credits": 0,
-    "server": 20,
+    "server": 5,
     "offsetRows": 0,
     "totalRows": 74,
-    "queryTime": 47.0848,
+    "queryTime": 32.0264,
     "s": 0,
-    "cache": 0
+    "cache": 1
   }
 }
