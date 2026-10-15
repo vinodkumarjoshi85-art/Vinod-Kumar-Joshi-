@@ -19,17 +19,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "CAN won",
+      "matchType": "TEST",
+      "venue": "Kingsmead, Durban",
+      "status": "AUS won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Kingsmead, Durban",
-      "status": "AUS won",
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Preview",
       "score": []
     },
     {
