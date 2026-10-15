@@ -4,6 +4,14 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "status": "WI won",
       "score": []
@@ -29,14 +37,6 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Draw",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Dr. Gokaraju Liala Gangaaraju ACA Cricket Ground, Vijayawada",
       "status": "Draw",
       "score": []
     },
