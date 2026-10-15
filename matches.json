@@ -11,9 +11,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "SACH won",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -35,17 +35,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Dr. Gokaraju Liala Gangaaraju ACA Cricket Ground, Vijayawada",
+      "status": "Draw",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Dr. Gokaraju Liala Gangaaraju ACA Cricket Ground, Vijayawada",
-      "status": "Draw",
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "SACH won",
       "score": []
     }
   ]
