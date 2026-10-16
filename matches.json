@@ -19,9 +19,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Kingsmead, Durban",
-      "status": "AUS won",
+      "matchType": "T20",
+      "venue": "Raby Oval No. 1, Sydney",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -36,16 +36,16 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Draw",
+      "venue": "Kingsmead, Durban",
+      "status": "AUS won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Raby Oval No. 1, Sydney",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "Draw",
       "score": []
     }
   ]
