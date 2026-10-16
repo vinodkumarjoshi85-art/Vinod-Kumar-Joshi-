@@ -20,8 +20,8 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Raby Oval No. 1, Sydney",
-      "status": "BRHW won",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Preview",
       "score": []
     },
     {
@@ -35,17 +35,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Kingsmead, Durban",
-      "status": "AUS won",
+      "matchType": "T20",
+      "venue": "Raby Oval No. 1, Sydney",
+      "status": "BRHW won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Draw",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "Preview",
       "score": []
     }
   ]
