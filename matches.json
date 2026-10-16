@@ -4,22 +4,6 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "status": "INDW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "status": "Preview",
       "score": []
@@ -28,8 +12,8 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "ENGCH won",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "INDW won",
       "score": []
     },
     {
@@ -38,6 +22,22 @@
       "matchType": "ODI",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "WICH won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "ENGCH won",
       "score": []
     },
     {
