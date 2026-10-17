@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "status": "Delay",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
       "status": "In Progress",
@@ -11,17 +19,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "In Progress",
+      "status": "CAN won",
       "score": []
     },
     {
