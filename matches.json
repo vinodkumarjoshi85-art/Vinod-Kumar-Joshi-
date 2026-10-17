@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "status": "Delay",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -13,7 +13,31 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Ings Break",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "St George's Park, Gqeberha",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Preview",
       "score": []
     },
     {
@@ -22,30 +46,6 @@
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
       "status": "CAN won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "status": "INDW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "WICH won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "ENGCH won",
       "score": []
     }
   ]
