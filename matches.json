@@ -11,17 +11,25 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "status": "INDW won",
+      "matchType": "ODI",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Preview",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "INDW won",
       "score": []
     },
     {
@@ -38,14 +46,6 @@
       "matchType": "T20",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "ENGCH won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "In Progress",
       "score": []
     }
   ]
