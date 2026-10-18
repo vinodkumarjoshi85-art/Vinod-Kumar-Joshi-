@@ -3,9 +3,17 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Ings Break",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -20,24 +28,8 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "North Sydney Oval, Sydney",
-      "status": "AUSW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "status": "No Result",
       "score": []
     },
     {
@@ -46,6 +38,14 @@
       "matchType": "TEST",
       "venue": "KSCA Cricket Ground, Alur",
       "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "status": "No Result",
       "score": []
     }
   ]
