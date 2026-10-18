@@ -3,24 +3,16 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "matchType": "TEST",
+      "venue": "St George's Park, Gqeberha",
       "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "St George's Park, Gqeberha",
-      "status": "Lunch",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "North Sydney Oval, Sydney",
+      "matchType": "ODI",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "In Progress",
       "score": []
     },
@@ -30,6 +22,14 @@
       "matchType": "T20",
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "North Sydney Oval, Sydney",
+      "status": "AUSW won",
       "score": []
     },
     {
