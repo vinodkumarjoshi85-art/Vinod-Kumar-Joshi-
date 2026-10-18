@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "St George's Park, Gqeberha",
-      "status": "Delay",
+      "matchType": "ODI",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "In Progress",
+      "matchType": "TEST",
+      "venue": "St George's Park, Gqeberha",
+      "status": "Delay",
       "score": []
     },
     {
@@ -43,9 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "KSCA Cricket Ground, Alur",
+      "status": "In Progress",
       "score": []
     }
   ]
