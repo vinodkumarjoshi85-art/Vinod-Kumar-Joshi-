@@ -11,14 +11,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "PAK won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
       "status": "Stumps",
@@ -27,25 +19,33 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "WICH won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "KSCA Cricket Ground, Alur",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "status": "No Result",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "PAK won",
       "score": []
     }
   ]
