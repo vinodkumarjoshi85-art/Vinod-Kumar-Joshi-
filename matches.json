@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "status": "INDW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
       "status": "Stumps",
@@ -19,9 +11,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "KSCA Cricket Ground, Alur",
-      "status": "Ings Break",
+      "matchType": "ODI",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "Preview",
       "score": []
     },
     {
@@ -35,9 +27,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "KSCA Cricket Ground, Alur",
+      "status": "Lunch",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "INDW won",
       "score": []
     },
     {
