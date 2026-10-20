@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
       "status": "In Progress",
@@ -14,14 +22,6 @@
       "matchType": "ODI",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "status": "Preview",
       "score": []
     },
     {
@@ -45,7 +45,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "AFG won",
+      "status": "Preview",
       "score": []
     }
   ]
