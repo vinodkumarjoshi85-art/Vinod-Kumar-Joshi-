@@ -3,25 +3,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "AFG won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
       "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "KSCA Cricket Ground, Alur",
-      "status": "In Progress",
       "score": []
     },
     {
@@ -36,6 +20,14 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
+      "venue": "North Sydney Oval, Sydney",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
       "status": "Preview",
       "score": []
@@ -43,9 +35,17 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "KSCA Cricket Ground, Alur",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "NEP won",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "AFG won",
       "score": []
     }
   ]
