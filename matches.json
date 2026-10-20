@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "status": "Ings Break",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -13,7 +13,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
-      "status": "In Progress",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -21,7 +21,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "In Progress",
+      "status": "PAK won",
       "score": []
     },
     {
