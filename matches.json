@@ -20,14 +20,6 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "North Sydney Oval, Sydney",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
       "status": "Preview",
       "score": []
@@ -35,9 +27,17 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "North Sydney Oval, Sydney",
+      "status": "AUSW won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "KSCA Cricket Ground, Alur",
-      "status": "In Progress",
+      "status": "Stumps",
       "score": []
     },
     {
