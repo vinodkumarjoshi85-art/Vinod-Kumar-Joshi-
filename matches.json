@@ -5,7 +5,23 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
-      "status": "Stumps",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "KSCA Cricket Ground, Alur",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -22,22 +38,6 @@
       "matchType": "T20",
       "venue": "Cricket Central, Sydney",
       "status": "SYSW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "KSCA Cricket Ground, Alur",
-      "status": "Lunch",
       "score": []
     },
     {
