@@ -21,15 +21,15 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Cricket Central, Sydney",
-      "status": "In Progress",
+      "status": "SYSW won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "PAK won",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "Preview",
       "score": []
     },
     {
@@ -44,8 +44,8 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Preview",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "PAK won",
       "score": []
     }
   ]
