@@ -13,7 +13,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
+      "status": "Ings Break",
       "score": []
     },
     {
@@ -22,14 +22,6 @@
       "matchType": "T20",
       "venue": "Hagley Oval, Christchurch",
       "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "KSCA Cricket Ground, Alur",
-      "status": "Draw",
       "score": []
     },
     {
@@ -46,6 +38,14 @@
       "matchType": "ODI",
       "venue": "High Performance Oval, Windhoek",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "KSCA Cricket Ground, Alur",
+      "status": "Draw",
       "score": []
     }
   ]
