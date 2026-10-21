@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "AFG won",
@@ -14,14 +22,6 @@
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
       "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "Preview",
       "score": []
     },
     {
