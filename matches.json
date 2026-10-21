@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "status": "INDW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
       "status": "Stumps",
@@ -20,8 +12,16 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "status": "INDW won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
       "venue": "Cricket Central, Sydney",
-      "status": "In Progress",
+      "status": "Ings Break",
       "score": []
     },
     {
@@ -37,7 +37,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "KSCA Cricket Ground, Alur",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
