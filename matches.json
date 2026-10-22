@@ -21,7 +21,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "In Progress",
+      "status": "Ings Break",
       "score": []
     },
     {
@@ -43,9 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "North Sydney Oval, Sydney",
-      "status": "No Result",
+      "matchType": "ODI",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Preview",
       "score": []
     }
   ]
