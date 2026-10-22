@@ -11,14 +11,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "AFG won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "St George's Park, Gqeberha",
       "status": "Stumps",
@@ -38,6 +30,14 @@
       "matchType": "ODI",
       "venue": "High Performance Oval, Windhoek",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "AFG won",
       "score": []
     },
     {
