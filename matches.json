@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "IND won",
+      "matchType": "TEST",
+      "venue": "St George's Park, Gqeberha",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "St George's Park, Gqeberha",
-      "status": "In Progress",
+      "matchType": "T20",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "IND won",
       "score": []
     },
     {
@@ -29,7 +29,15 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "High Performance Oval, Windhoek",
-      "status": "Ings Break",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "status": "Preview",
       "score": []
     },
     {
@@ -38,14 +46,6 @@
       "matchType": "T20",
       "venue": "North Sydney Oval, Sydney",
       "status": "No Result",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "AFG won",
       "score": []
     }
   ]
