@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "St George's Park, Gqeberha",
+      "matchType": "ODI",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "In Progress",
+      "matchType": "TEST",
+      "venue": "St George's Park, Gqeberha",
+      "status": "RSA won",
       "score": []
     },
     {
@@ -29,7 +29,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "High Performance Oval, Windhoek",
-      "status": "In Progress",
+      "status": "IRE won",
       "score": []
     },
     {
