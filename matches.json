@@ -35,17 +35,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "AFG won",
+      "matchType": "T20",
+      "venue": "North Sydney Oval, Sydney",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "KSCA Cricket Ground, Alur",
-      "status": "Draw",
+      "matchType": "ODI",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "AFG won",
       "score": []
     }
   ]
