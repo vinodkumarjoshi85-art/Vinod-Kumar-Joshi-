@@ -3,17 +3,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "AFG won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "status": "INDW won",
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Preview",
       "score": []
     },
     {
@@ -27,9 +19,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Preview",
+      "matchType": "ODI",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "AFG won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "status": "INDW won",
       "score": []
     },
     {
