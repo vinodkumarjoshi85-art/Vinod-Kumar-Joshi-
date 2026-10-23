@@ -4,38 +4,6 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "SL won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "St George's Park, Gqeberha",
-      "status": "RSA won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "IND won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "High Performance Oval, Windhoek",
-      "status": "IRE won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
       "venue": "BCA Stadium, Kotambi, Vadodara",
       "status": "Preview",
       "score": []
@@ -46,6 +14,38 @@
       "matchType": "ODI",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "SL won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "St George's Park, Gqeberha",
+      "status": "RSA won",
       "score": []
     }
   ]
