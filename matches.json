@@ -5,6 +5,14 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Hagley Oval, Christchurch",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Namibia Cricket Ground, Windhoek",
       "status": "Preview",
       "score": []
     },
@@ -14,14 +22,6 @@
       "matchType": "TEST",
       "venue": "Bert Sutcliffe Oval, Lincoln",
       "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "status": "Preview",
       "score": []
     },
     {
@@ -44,8 +44,8 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "SL won",
+      "venue": "ICC Academy Ground, Dubai",
+      "status": "Preview",
       "score": []
     }
   ]
