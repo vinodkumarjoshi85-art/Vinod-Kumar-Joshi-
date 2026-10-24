@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
       "venue": "Hagley Oval, Christchurch",
       "status": "IND won",
@@ -14,14 +22,6 @@
       "matchType": "ODI",
       "venue": "Namibia Cricket Ground, Windhoek",
       "status": "NAM won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Stumps",
       "score": []
     },
     {
