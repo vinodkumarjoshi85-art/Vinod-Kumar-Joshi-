@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "In Progress",
+      "matchType": "T20",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Stumps",
       "score": []
     },
     {
