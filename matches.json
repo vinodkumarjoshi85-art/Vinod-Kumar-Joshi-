@@ -4,24 +4,16 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
-      "status": "In Progress",
+      "status": "PAK won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "ICC Academy Ground, Dubai",
-      "status": "NED won",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "status": "INDW won",
       "score": []
     },
     {
@@ -35,17 +27,25 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "IND won",
+      "matchType": "TEST",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
-      "status": "Preview",
+      "matchType": "ODI",
+      "venue": "ICC Academy Ground, Dubai",
+      "status": "NED won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "IND won",
       "score": []
     }
   ]
