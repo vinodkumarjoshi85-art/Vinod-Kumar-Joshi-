@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "PAK won",
@@ -14,14 +22,6 @@
       "matchType": "ODI",
       "venue": "BCA Stadium, Kotambi, Vadodara",
       "status": "INDW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Stumps",
       "score": []
     },
     {
