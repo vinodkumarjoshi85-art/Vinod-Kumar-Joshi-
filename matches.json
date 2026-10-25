@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "Preview",
@@ -22,6 +14,14 @@
       "matchType": "ODI",
       "venue": "BCA Stadium, Kotambi, Vadodara",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Stumps",
       "score": []
     },
     {
