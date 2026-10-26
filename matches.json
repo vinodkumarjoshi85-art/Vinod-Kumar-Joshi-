@@ -19,14 +19,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "status": "INDW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "Reliance Stadium, Vadodara",
       "status": "In Progress",
@@ -37,6 +29,14 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Hnry Stadium, Wellington",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Newlands, Cape Town",
       "status": "Preview",
       "score": []
     },
