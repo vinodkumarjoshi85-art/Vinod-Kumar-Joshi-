@@ -20,14 +20,6 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Reliance Stadium, Vadodara",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Newlands, Cape Town",
       "status": "Preview",
       "score": []
@@ -38,6 +30,14 @@
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Reliance Stadium, Vadodara",
+      "status": "Stumps",
       "score": []
     },
     {
