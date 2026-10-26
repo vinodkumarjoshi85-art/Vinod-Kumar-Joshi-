@@ -11,9 +11,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Gaddafi Stadium, Lahore",
-      "status": "PAK won",
+      "matchType": "T20",
+      "venue": "Hnry Stadium, Wellington",
+      "status": "Preview",
       "score": []
     },
     {
@@ -27,16 +27,16 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Hnry Stadium, Wellington",
+      "matchType": "TEST",
+      "venue": "Newlands, Cape Town",
       "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
+      "matchType": "ODI",
+      "venue": "Gaddafi Stadium, Lahore",
       "status": "Preview",
       "score": []
     },
