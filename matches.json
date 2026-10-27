@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Newlands, Cape Town",
-      "status": "In Progress",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -13,7 +13,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
+      "status": "Ings Break",
       "score": []
     },
     {
@@ -22,6 +22,14 @@
       "matchType": "T20",
       "venue": "Hnry Stadium, Wellington",
       "status": "IND won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "Preview",
       "score": []
     },
     {
@@ -38,14 +46,6 @@
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "SL won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Draw",
       "score": []
     }
   ]
