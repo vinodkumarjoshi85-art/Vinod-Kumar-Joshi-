@@ -5,15 +5,15 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Newlands, Cape Town",
-      "status": "Tea",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Hnry Stadium, Wellington",
-      "status": "IND won",
+      "matchType": "ODI",
+      "venue": "High Performance Oval, Windhoek",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -27,9 +27,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "High Performance Oval, Windhoek",
-      "status": "In Progress",
+      "matchType": "T20",
+      "venue": "Hnry Stadium, Wellington",
+      "status": "IND won",
       "score": []
     },
     {
