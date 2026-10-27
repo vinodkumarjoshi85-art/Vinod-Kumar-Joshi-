@@ -12,14 +12,6 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Draw",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Newlands, Cape Town",
       "status": "Preview",
       "score": []
@@ -28,16 +20,24 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "High Performance Oval, Windhoek",
-      "status": "Preview",
+      "venue": "Gaddafi Stadium, Lahore",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Gaddafi Stadium, Lahore",
-      "status": "Preview",
+      "venue": "High Performance Oval, Windhoek",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Draw",
       "score": []
     },
     {
