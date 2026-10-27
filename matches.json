@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "Stumps",
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Ings Break",
+      "matchType": "TEST",
+      "venue": "Newlands, Cape Town",
+      "status": "Stumps",
       "score": []
     },
     {
