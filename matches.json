@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Newlands, Cape Town",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
       "venue": "Hnry Stadium, Wellington",
       "status": "IND won",
@@ -11,17 +19,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "Lunch",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
-      "status": "Ings Break",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -29,7 +29,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "High Performance Oval, Windhoek",
-      "status": "In Progress",
+      "status": "Ings Break",
       "score": []
     },
     {
