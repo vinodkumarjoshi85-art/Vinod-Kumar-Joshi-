@@ -11,17 +11,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "High Performance Oval, Windhoek",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "T20",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Preview",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -30,6 +22,14 @@
       "matchType": "T20",
       "venue": "Hnry Stadium, Wellington",
       "status": "IND won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "High Performance Oval, Windhoek",
+      "status": "NAM won",
       "score": []
     },
     {
