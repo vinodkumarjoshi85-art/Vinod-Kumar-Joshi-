@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "BCA Stadium, Kotambi, Vadodara",
       "status": "Preview",
@@ -22,6 +14,14 @@
       "matchType": "TEST",
       "venue": "Newlands, Cape Town",
       "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "Tea",
       "score": []
     },
     {
