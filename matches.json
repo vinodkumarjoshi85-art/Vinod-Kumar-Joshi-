@@ -5,15 +5,15 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Preview",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "AFG won",
+      "matchType": "ODI",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "status": "Preview",
       "score": []
     },
     {
@@ -27,6 +27,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
       "venue": "Hnry Stadium, Wellington",
       "status": "IND won",
@@ -35,17 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "High Performance Oval, Windhoek",
-      "status": "NAM won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Gaddafi Stadium, Lahore",
-      "status": "SL won",
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "AFG won",
       "score": []
     }
   ]
