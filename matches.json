@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "status": "INDW won",
+      "matchType": "TEST",
+      "venue": "Newlands, Cape Town",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "In Progress",
+      "matchType": "ODI",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "status": "INDW won",
       "score": []
     },
     {
@@ -27,25 +27,25 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
-      "status": "Stumps",
+      "matchType": "ODI",
+      "venue": "Gaddafi Stadium, Lahore",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Hnry Stadium, Wellington",
-      "status": "IND won",
+      "venue": "Junction Oval, Melbourne",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Gaddafi Stadium, Lahore",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "status": "Stumps",
       "score": []
     }
   ]
