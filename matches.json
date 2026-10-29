@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Newlands, Cape Town",
-      "status": "Lunch",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -14,14 +14,6 @@
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Stumps",
       "score": []
     },
     {
@@ -36,16 +28,24 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Junction Oval, Melbourne",
+      "venue": "Eden Park, Auckland",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "ICC Academy Ground, Dubai",
       "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Eden Park, Auckland",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "Stumps",
       "score": []
     }
   ]
