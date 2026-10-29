@@ -3,9 +3,17 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Ings Break",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Newlands, Cape Town",
-      "status": "In Progress",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -13,15 +21,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
+      "status": "ENG won",
       "score": []
     },
     {
