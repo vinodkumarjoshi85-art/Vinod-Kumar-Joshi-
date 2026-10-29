@@ -4,32 +4,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "status": "INDW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Gaddafi Stadium, Lahore",
-      "status": "Preview",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -44,8 +20,32 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "venue": "Newlands, Cape Town",
       "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Gaddafi Stadium, Lahore",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "BCA Stadium, Kotambi, Vadodara",
+      "status": "INDW won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "status": "In Progress",
       "score": []
     }
   ]
