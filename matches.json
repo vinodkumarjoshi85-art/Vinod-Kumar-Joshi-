@@ -11,9 +11,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Junction Oval, Melbourne",
-      "status": "In Progress",
+      "matchType": "ODI",
+      "venue": "Gaddafi Stadium, Lahore",
+      "status": "Preview",
       "score": []
     },
     {
@@ -27,17 +27,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Gaddafi Stadium, Lahore",
+      "matchType": "T20",
+      "venue": "Eden Park, Auckland",
       "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "status": "INDW won",
+      "matchType": "T20",
+      "venue": "Junction Oval, Melbourne",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -45,7 +45,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
-      "status": "Lunch",
+      "status": "In Progress",
       "score": []
     }
   ]
