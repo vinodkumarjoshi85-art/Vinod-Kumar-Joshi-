@@ -5,7 +5,15 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
+      "status": "AFG won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Eden Park, Auckland",
+      "status": "Preview",
       "score": []
     },
     {
@@ -22,14 +30,6 @@
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "ENG won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Eden Park, Auckland",
-      "status": "Preview",
       "score": []
     },
     {
