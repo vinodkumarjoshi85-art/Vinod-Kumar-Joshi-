@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Newlands, Cape Town",
-      "status": "In Progress",
+      "status": "Lunch",
       "score": []
     },
     {
@@ -21,7 +21,15 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "In Progress",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Preview",
       "score": []
     },
     {
@@ -30,14 +38,6 @@
       "matchType": "T20",
       "venue": "Junction Oval, Melbourne",
       "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
-      "status": "MUM won",
       "score": []
     },
     {
