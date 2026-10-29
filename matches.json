@@ -4,7 +4,7 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
+      "venue": "Newlands, Cape Town",
       "status": "In Progress",
       "score": []
     },
@@ -13,23 +13,15 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
-      "status": "Preview",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Eden Park, Auckland",
-      "status": "Preview",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "Break",
       "score": []
     },
     {
@@ -46,6 +38,14 @@
       "matchType": "TEST",
       "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
       "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Eden Park, Auckland",
+      "status": "Preview",
       "score": []
     }
   ]
