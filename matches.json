@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Eden Park, Auckland",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Stumps",
+      "matchType": "T20",
+      "venue": "Eden Park, Auckland",
+      "status": "Preview",
       "score": []
     },
     {
