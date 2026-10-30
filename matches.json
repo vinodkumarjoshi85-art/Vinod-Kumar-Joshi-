@@ -4,16 +4,16 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "AFG won",
+      "venue": "Eden Park, Auckland",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Eden Park, Auckland",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -27,17 +27,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Gaddafi Stadium, Lahore",
-      "status": "ENG won",
+      "matchType": "T20",
+      "venue": "Mission Road Ground, Mong Kok",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Stumps",
+      "matchType": "T20",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "AFG won",
       "score": []
     },
     {
