@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Eden Park, Auckland",
-      "status": "In Progress",
+      "status": "NZ won",
       "score": []
     },
     {
@@ -13,7 +13,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Newlands, Cape Town",
-      "status": "In Progress",
+      "status": "Lunch",
       "score": []
     },
     {
@@ -21,7 +21,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Break",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -29,7 +29,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "High Performance Oval, Windhoek",
-      "status": "In Progress",
+      "status": "Ings Break",
       "score": []
     },
     {
