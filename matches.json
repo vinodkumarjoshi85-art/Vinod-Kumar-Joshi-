@@ -4,24 +4,16 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
       "venue": "Newlands, Cape Town",
       "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Eden Park, Auckland",
-      "status": "NZ won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "High Performance Oval, Windhoek",
-      "status": "IRE won",
       "score": []
     },
     {
@@ -35,8 +27,8 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Hagley Oval, Christchurch",
+      "matchType": "T20",
+      "venue": "Mission Road Ground, Mong Kok",
       "status": "Preview",
       "score": []
     },
@@ -46,6 +38,14 @@
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Eden Park, Auckland",
+      "status": "NZ won",
       "score": []
     }
   ]
