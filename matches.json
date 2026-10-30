@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Eden Park, Auckland",
-      "status": "Preview",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -13,14 +13,6 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Ings Break",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Mission Road Ground, Mong Kok",
       "status": "In Progress",
       "score": []
     },
@@ -36,8 +28,16 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Namibia Cricket Ground, Windhoek",
-      "status": "Preview",
+      "venue": "High Performance Oval, Windhoek",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Mission Road Ground, Mong Kok",
+      "status": "PAK won",
       "score": []
     },
     {
