@@ -12,7 +12,7 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
+      "venue": "Newlands, Cape Town",
       "status": "In Progress",
       "score": []
     },
@@ -20,8 +20,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "Stumps",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -36,16 +36,16 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Mission Road Ground, Mong Kok",
-      "status": "PAK won",
+      "venue": "Allan Border Field, Brisbane",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "AFG won",
+      "venue": "Mission Road Ground, Mong Kok",
+      "status": "PAK won",
       "score": []
     }
   ]
