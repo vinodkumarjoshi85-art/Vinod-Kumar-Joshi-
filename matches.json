@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Newlands, Cape Town",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
       "venue": "Eden Park, Auckland",
       "status": "NZ won",
@@ -11,9 +19,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "Lunch",
+      "matchType": "ODI",
+      "venue": "High Performance Oval, Windhoek",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -27,25 +35,17 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
-      "venue": "High Performance Oval, Windhoek",
-      "status": "Ings Break",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Allan Border Field, Brisbane",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Mission Road Ground, Mong Kok",
-      "status": "PAK won",
+      "venue": "Gaddafi Stadium, Lahore",
+      "status": "Preview",
       "score": []
     }
   ]
