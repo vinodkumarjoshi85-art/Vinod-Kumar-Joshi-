@@ -4,16 +4,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "Break",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Newlands, Cape Town",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -21,6 +13,14 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Shere Bangla National Stadium, Dhaka",
       "status": "In Progress",
       "score": []
     },
