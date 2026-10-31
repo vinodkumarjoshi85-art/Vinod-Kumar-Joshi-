@@ -21,7 +21,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "In Progress",
+      "status": "WI won",
       "score": []
     },
     {
@@ -29,7 +29,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "W.A.C.A. Ground, Perth",
-      "status": "Ings Break",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -45,7 +45,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "ICC Academy Ground, Dubai",
-      "status": "Ings Break",
+      "status": "In Progress",
       "score": []
     }
   ]
