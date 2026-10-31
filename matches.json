@@ -5,15 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Hagley Oval, Christchurch",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Newlands, Cape Town",
-      "status": "Stumps",
+      "status": "Tea",
       "score": []
     },
     {
@@ -29,7 +21,15 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Mission Road Ground, Mong Kok",
-      "status": "AFG won",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Newlands, Cape Town",
+      "status": "Stumps",
       "score": []
     },
     {
