@@ -5,23 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Mission Road Ground, Mong Kok",
-      "status": "ENG won",
+      "status": "Break",
       "score": []
     },
     {
@@ -44,8 +28,24 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Eden Park, Auckland",
-      "status": "NZ won",
+      "venue": "Karen Rolton Oval, Adelaide, South Australia",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "ICC Academy Ground, Dubai",
+      "status": "In Progress",
       "score": []
     }
   ]
