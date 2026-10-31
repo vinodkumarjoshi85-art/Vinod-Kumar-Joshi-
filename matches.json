@@ -3,6 +3,22 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Seddon Park, Hamilton",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
       "status": "PAK won",
@@ -19,16 +35,8 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Shere Bangla National Stadium, Dhaka",
-      "status": "WI won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Seddon Park, Hamilton",
+      "matchType": "ODI",
+      "venue": "Namibia Cricket Ground, Windhoek",
       "status": "Preview",
       "score": []
     },
@@ -36,16 +44,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "ICC Academy Ground, Dubai",
-      "status": "UAE won",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "status": "WI won",
       "score": []
     }
   ]
