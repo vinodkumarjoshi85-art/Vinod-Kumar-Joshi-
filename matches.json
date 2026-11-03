@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "ODI",
+      "venue": "Eden Park, Auckland",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Hagley Oval, Christchurch",
       "status": "Draw",
@@ -11,9 +19,25 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "ICC Academy Ground, Dubai",
-      "status": "NED won",
+      "matchType": "TEST",
+      "venue": "Sher-i-Kashmir Stadium, Srinagar",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Brabourne Stadium, Mumbai",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "status": "Preview",
       "score": []
     },
     {
@@ -22,30 +46,6 @@
       "matchType": "T20",
       "venue": "Junction Oval, Melbourne",
       "status": "PRSW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Sher-i-Kashmir Stadium, Srinagar",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Brabourne Stadium, Mumbai",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Seddon Park, Hamilton",
-      "status": "NZ won",
       "score": []
     }
   ]
