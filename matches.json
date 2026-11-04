@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Eden Park, Auckland",
-      "status": "In Progress",
+      "status": "IND won",
       "score": []
     },
     {
@@ -19,22 +19,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Bellerive Oval, Hobart",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Gymkhana Ground, Secunderabad",
-      "status": "Tea",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "status": "Preview",
@@ -43,9 +27,25 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Bellerive Oval, Hobart",
+      "status": "MLRW won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Gymkhana Ground, Secunderabad",
+      "status": "In Progress",
       "score": []
     }
   ]
