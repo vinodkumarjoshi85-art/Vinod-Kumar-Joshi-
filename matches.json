@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Eden Park, Auckland",
-      "status": "In Progress",
+      "status": "Break",
       "score": []
     },
     {
@@ -37,7 +37,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Gymkhana Ground, Secunderabad",
-      "status": "Lunch",
+      "status": "In Progress",
       "score": []
     },
     {
