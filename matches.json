@@ -27,6 +27,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
       "venue": "Bellerive Oval, Hobart",
       "status": "MLRW won",
@@ -36,16 +44,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Gymkhana Ground, Secunderabad",
-      "status": "In Progress",
+      "status": "Stumps",
       "score": []
     }
   ]
