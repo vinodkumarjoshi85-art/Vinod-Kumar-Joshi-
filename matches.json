@@ -13,7 +13,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "status": "Break",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -27,25 +27,25 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Gymkhana Ground, Secunderabad",
-      "status": "In Progress",
+      "matchType": "T20",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "SLU19 won",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "status": "In Progress",
+      "matchType": "TEST",
+      "venue": "Gymkhana Ground, Secunderabad",
+      "status": "HYD won",
       "score": []
     }
   ]
