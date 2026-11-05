@@ -4,7 +4,7 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "In Progress",
       "score": []
     },
@@ -12,8 +12,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "status": "Break",
       "score": []
     },
     {
@@ -37,7 +37,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "In Progress",
+      "status": "SLU19 won",
       "score": []
     },
     {
