@@ -19,6 +19,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Drummoyne Oval, Sydney",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Gymkhana Ground, Secunderabad",
       "status": "In Progress",
@@ -28,16 +36,8 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Eden Park, Auckland",
-      "status": "IND won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Drummoyne Oval, Sydney",
-      "status": "BRHW won",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "status": "In Progress",
       "score": []
     },
     {
