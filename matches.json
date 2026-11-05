@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Eden Park, Auckland",
-      "status": "IND won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "status": "Preview",
@@ -27,25 +19,33 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Bellerive Oval, Hobart",
-      "status": "MLRW won",
+      "matchType": "TEST",
+      "venue": "Gymkhana Ground, Secunderabad",
+      "status": "Stumps",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "ICC Academy Ground, Dubai",
-      "status": "UAE won",
+      "venue": "Eden Park, Auckland",
+      "status": "IND won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Gymkhana Ground, Secunderabad",
-      "status": "Stumps",
+      "matchType": "T20",
+      "venue": "Drummoyne Oval, Sydney",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "status": "Preview",
       "score": []
     }
   ]
