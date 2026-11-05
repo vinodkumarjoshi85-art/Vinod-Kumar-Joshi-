@@ -21,15 +21,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Drummoyne Oval, Sydney",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "status": "Preview",
+      "status": "PRSW won",
       "score": []
     },
     {
@@ -37,15 +29,23 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "AFGU19 won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Gymkhana Ground, Secunderabad",
-      "status": "HYD won",
+      "matchType": "ODI",
+      "venue": "Eden Park, Auckland",
+      "status": "IND won",
       "score": []
     }
   ]
