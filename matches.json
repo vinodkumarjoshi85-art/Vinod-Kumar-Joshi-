@@ -27,17 +27,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "AFGU19 won",
+      "matchType": "T20",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "status": "In Progress",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "Preview",
       "score": []
     },
     {
