@@ -3,9 +3,17 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "ODI",
+      "venue": "Hnry Stadium, Wellington",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -19,8 +27,8 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Hnry Stadium, Wellington",
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
       "status": "Preview",
       "score": []
     },
@@ -38,14 +46,6 @@
       "matchType": "T20",
       "venue": "Junction Oval, Melbourne",
       "status": "SYSW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Preview",
       "score": []
     }
   ]
