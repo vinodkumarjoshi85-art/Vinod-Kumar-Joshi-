@@ -3,6 +3,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "ODI",
       "venue": "Hnry Stadium, Wellington",
       "status": "IND won",
@@ -30,14 +38,6 @@
       "matchType": "T20",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
       "status": "EE won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "UBL won",
       "score": []
     },
     {
