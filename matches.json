@@ -13,15 +13,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "In Progress",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -30,6 +22,14 @@
       "matchType": "T20",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "UBL won",
       "score": []
     },
     {
