@@ -21,7 +21,15 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "In Progress",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "EE won",
       "score": []
     },
     {
@@ -30,14 +38,6 @@
       "matchType": "T20",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
       "status": "UBL won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Preview",
       "score": []
     },
     {
