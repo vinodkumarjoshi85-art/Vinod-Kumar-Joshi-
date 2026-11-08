@@ -3,22 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "status": "In Progress",
@@ -28,8 +12,24 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "status": "Lunch",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
       "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "In Progress",
       "score": []
     },
     {
