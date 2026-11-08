@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "ARA won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "Bert Sutcliffe Oval, Lincoln",
       "status": "Stumps",
@@ -19,9 +11,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "PAKU19 won",
+      "matchType": "T20",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "ARA won",
       "score": []
     },
     {
@@ -36,16 +28,24 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Stumps",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "status": "PAKU19 won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Preview",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Stumps",
       "score": []
     }
   ]
