@@ -19,6 +19,14 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "status": "Stumps",
@@ -38,14 +46,6 @@
       "matchType": "ODI",
       "venue": "Hnry Stadium, Wellington",
       "status": "IND won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Preview",
       "score": []
     }
   ]
