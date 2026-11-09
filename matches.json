@@ -3,6 +3,22 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "ODI",
+      "venue": "Seddon Park, Hamilton",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Draw",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "Stumps",
@@ -12,24 +28,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "status": "Draw",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Seddon Park, Hamilton",
-      "status": "Preview",
       "score": []
     },
     {
