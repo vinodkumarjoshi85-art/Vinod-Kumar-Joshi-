@@ -5,14 +5,6 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Tea",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
       "status": "In Progress",
       "score": []
     },
@@ -28,8 +20,8 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Stumps",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "status": "Draw",
       "score": []
     },
     {
@@ -46,6 +38,14 @@
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Stumps",
       "score": []
     }
   ]
