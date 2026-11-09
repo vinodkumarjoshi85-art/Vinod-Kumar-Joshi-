@@ -4,22 +4,6 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Break",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "Preview",
       "score": []
@@ -28,7 +12,23 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "status": "Ings Break",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
       "status": "Stumps",
       "score": []
     },
