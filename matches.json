@@ -12,6 +12,14 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "status": "Draw",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "Draw",
       "score": []
@@ -29,15 +37,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "Preview",
+      "status": "Ings Break",
       "score": []
     },
     {
