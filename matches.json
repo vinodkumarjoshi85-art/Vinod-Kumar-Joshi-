@@ -12,6 +12,22 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Break",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
       "venue": "Sylhet International Cricket Stadium, Sylhet",
       "status": "Draw",
       "score": []
@@ -27,25 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "UT won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Break",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "status": "Preview",
       "score": []
     }
   ]
