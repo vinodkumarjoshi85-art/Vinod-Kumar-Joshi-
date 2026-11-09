@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "In Progress",
+      "status": "Tea",
       "score": []
     },
     {
@@ -45,7 +45,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "PAKU19 won",
+      "status": "Preview",
       "score": []
     }
   ]
