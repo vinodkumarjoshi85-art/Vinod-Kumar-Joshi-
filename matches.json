@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Seddon Park, Hamilton",
-      "status": "Break",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "In Progress",
@@ -22,6 +14,14 @@
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Seddon Park, Hamilton",
+      "status": "Abandon",
       "score": []
     },
     {
@@ -43,9 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Draw",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "In Progress",
       "score": []
     }
   ]
