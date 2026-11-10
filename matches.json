@@ -13,7 +13,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -27,16 +27,16 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Draw",
+      "matchType": "T20",
+      "venue": "Bellerive Oval, Hobart",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
       "status": "Draw",
       "score": []
     },
