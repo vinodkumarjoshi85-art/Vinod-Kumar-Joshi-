@@ -5,15 +5,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Seddon Park, Hamilton",
-      "status": "Delay",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Draw",
+      "status": "Break",
       "score": []
     },
     {
@@ -22,6 +14,22 @@
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Bert Sutcliffe Oval, Lincoln",
+      "status": "Draw",
       "score": []
     },
     {
@@ -38,14 +46,6 @@
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "Draw",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "Preview",
       "score": []
     }
   ]
