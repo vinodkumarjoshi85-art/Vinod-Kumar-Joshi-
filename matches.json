@@ -28,6 +28,14 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
       "venue": "Bellerive Oval, Hobart",
       "status": "ADSW won",
       "score": []
@@ -38,14 +46,6 @@
       "matchType": "TEST",
       "venue": "Bert Sutcliffe Oval, Lincoln",
       "status": "Draw",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "PAKU19 won",
       "score": []
     }
   ]
