@@ -35,17 +35,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "status": "Draw",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "EE won",
+      "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
+      "status": "Preview",
       "score": []
     }
   ]
