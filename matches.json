@@ -3,6 +3,22 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "ODI",
+      "venue": "Bay Oval, Mount Maunganui",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Perth Stadium, Perth",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
       "status": "Stumps",
@@ -30,22 +46,6 @@
       "matchType": "T20",
       "venue": "Junction Oval, Melbourne",
       "status": "SYSW won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Bay Oval, Mount Maunganui",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Perth Stadium, Perth",
-      "status": "Preview",
       "score": []
     }
   ]
