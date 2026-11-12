@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Break",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -21,7 +21,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "In Progress",
+      "status": "PAKU19 won",
       "score": []
     },
     {
@@ -29,7 +29,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Junction Oval, Melbourne",
-      "status": "BRHW won",
+      "status": "In Progress",
       "score": []
     },
     {
