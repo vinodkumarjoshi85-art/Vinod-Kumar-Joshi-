@@ -20,8 +20,8 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "YL won",
+      "venue": "Junction Oval, Melbourne",
+      "status": "Preview",
       "score": []
     },
     {
@@ -35,8 +35,8 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Junction Oval, Melbourne",
+      "matchType": "ODI",
+      "venue": "Bay Oval, Mount Maunganui",
       "status": "Preview",
       "score": []
     },
@@ -45,7 +45,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "RDC won",
+      "status": "YL won",
       "score": []
     }
   ]
