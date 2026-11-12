@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -13,15 +13,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Junction Oval, Melbourne",
-      "status": "Preview",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -29,7 +21,15 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 1), Al Amerat",
-      "status": "Preview",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Junction Oval, Melbourne",
+      "status": "In Progress",
       "score": []
     },
     {
