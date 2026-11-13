@@ -11,9 +11,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Perth Stadium, Perth",
-      "status": "AUS won",
+      "matchType": "T20",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -21,7 +21,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Tea",
+      "status": "Draw",
       "score": []
     },
     {
@@ -29,15 +29,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "Preview",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -46,6 +38,14 @@
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Perth Stadium, Perth",
+      "status": "AUS won",
       "score": []
     }
   ]
