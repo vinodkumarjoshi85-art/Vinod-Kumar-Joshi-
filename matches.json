@@ -5,14 +5,30 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "Preview",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Tea",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Jadavpur University Campus 2nd Ground, Kolkata",
+      "venue": "W.A.C.A. Ground, Perth",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
       "status": "In Progress",
       "score": []
     },
@@ -27,25 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "ARA won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Draw",
+      "matchType": "ODI",
+      "venue": "Adelaide Oval, Adelaide",
+      "status": "Preview",
       "score": []
     }
   ]
