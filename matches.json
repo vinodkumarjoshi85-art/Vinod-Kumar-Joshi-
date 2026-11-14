@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "In Progress",
+      "status": "INDU19 won",
       "score": []
     },
     {
@@ -13,14 +13,14 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Tea",
+      "status": "Stumps",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "W.A.C.A. Ground, Perth",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
       "status": "In Progress",
       "score": []
     },
@@ -28,8 +28,8 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
-      "status": "In Progress",
+      "venue": "Wankhede Stadium, Mumbai",
+      "status": "KAR won",
       "score": []
     },
     {
