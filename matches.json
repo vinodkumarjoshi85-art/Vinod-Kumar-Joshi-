@@ -4,8 +4,24 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Jadavpur University Campus 2nd Ground, Kolkata",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
       "venue": "Bay Oval, Mount Maunganui",
-      "status": "NZ won",
+      "status": "Preview",
       "score": []
     },
     {
@@ -20,14 +36,6 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Draw",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "Stumps",
       "score": []
@@ -35,17 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Perth Stadium, Perth",
-      "status": "AUS won",
+      "matchType": "TEST",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "Draw",
       "score": []
     }
   ]
