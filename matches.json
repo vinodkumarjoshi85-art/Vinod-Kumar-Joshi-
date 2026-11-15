@@ -4,16 +4,16 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "status": "INDU19 won",
+      "venue": "Bay Oval, Mount Maunganui",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Bay Oval, Mount Maunganui",
-      "status": "Preview",
+      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
+      "status": "INDU19 won",
       "score": []
     },
     {
@@ -36,16 +36,16 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "UBL won",
+      "venue": "North Sydney Oval, Sydney",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Wankhede Stadium, Mumbai",
-      "status": "KAR won",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "UBL won",
       "score": []
     }
   ]
