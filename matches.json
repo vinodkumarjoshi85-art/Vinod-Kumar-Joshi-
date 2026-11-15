@@ -5,6 +5,30 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "Bay Oval, Mount Maunganui",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "Adelaide Oval, Adelaide",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "The Wanderers Stadium, Johannesburg",
       "status": "Preview",
       "score": []
     },
@@ -19,33 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Adelaide Oval, Adelaide",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "T20",
       "venue": "North Sydney Oval, Sydney",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "UBL won",
+      "status": "MLRW won",
       "score": []
     }
   ]
