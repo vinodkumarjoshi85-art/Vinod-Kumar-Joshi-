@@ -5,15 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "The Wanderers Stadium, Johannesburg",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "YL won",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -21,7 +13,23 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Stumps",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Drummoyne Oval, Sydney",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "status": "Preview",
       "score": []
     },
     {
@@ -35,17 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "Adelaide Oval, Adelaide",
-      "status": "ENG won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
-      "status": "EE won",
+      "matchType": "TEST",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "Preview",
       "score": []
     }
   ]
