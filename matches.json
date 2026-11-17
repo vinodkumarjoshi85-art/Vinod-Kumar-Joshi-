@@ -4,8 +4,16 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "status": "Break",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Preview",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -13,15 +21,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "The Wanderers Stadium, Johannesburg",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -29,7 +29,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Karen Rolton Oval, Adelaide, South Australia",
-      "status": "Preview",
+      "status": "SYSW won",
       "score": []
     },
     {
@@ -44,8 +44,8 @@
       "name": "",
       "teams": [],
       "matchType": "ODI",
-      "venue": "Bay Oval, Mount Maunganui",
-      "status": "IND won",
+      "venue": "Bellerive Oval, Hobart",
+      "status": "Preview",
       "score": []
     }
   ]
