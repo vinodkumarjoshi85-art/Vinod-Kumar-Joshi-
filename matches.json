@@ -4,7 +4,7 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Basin Reserve, Wellington",
+      "venue": "The Wanderers Stadium, Johannesburg",
       "status": "In Progress",
       "score": []
     },
@@ -13,14 +13,14 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "The Wanderers Stadium, Johannesburg",
+      "venue": "Basin Reserve, Wellington",
       "status": "Stumps",
       "score": []
     },
@@ -29,7 +29,15 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Allan Border Field, Brisbane",
-      "status": "Preview",
+      "status": "PRSW won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "University of Doha for Science and Technology, Doha",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -37,15 +45,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "status": "YL won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "Bellerive Oval, Hobart",
-      "status": "ENG won",
+      "status": "Preview",
       "score": []
     }
   ]
