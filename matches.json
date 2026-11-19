@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Basin Reserve, Wellington",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -27,14 +27,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "West End Park International Cricket Stadium, Doha",
       "status": "Preview",
@@ -45,7 +37,15 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "status": "RDC won",
+      "status": "EE won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Adelaide Oval, Adelaide",
+      "status": "Preview",
       "score": []
     }
   ]
