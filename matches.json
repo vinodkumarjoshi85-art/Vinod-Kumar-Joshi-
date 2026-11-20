@@ -3,41 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Basin Reserve, Wellington",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Daly College Ground, Indore",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "West End Park International Cricket Stadium, Doha",
-      "status": "Preview",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Adelaide Oval, Adelaide",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "Basin Reserve, Wellington",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -45,7 +21,31 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Melbourne Cricket Ground, Melbourne",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Daly College Ground, Indore",
+      "status": "SAUR won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "PAK won",
       "score": []
     }
   ]
