@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "West End Park International Cricket Stadium, Doha",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "Basin Reserve, Wellington",
       "status": "Stumps",
@@ -19,9 +11,25 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "ODI",
+      "venue": "West End Park International Cricket Stadium, Doha",
+      "status": "INDA won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
       "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "status": "In Progress",
+      "status": "UBL won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "status": "UBL won",
       "score": []
     },
     {
@@ -30,14 +38,6 @@
       "matchType": "T20",
       "venue": "Melbourne Cricket Ground, Melbourne",
       "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Daly College Ground, Indore",
-      "status": "SAUR won",
       "score": []
     },
     {
