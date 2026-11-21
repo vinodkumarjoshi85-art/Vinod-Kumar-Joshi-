@@ -5,31 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Basin Reserve, Wellington",
-      "status": "Stumps",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Dubai International Cricket Stadium, Dubai",
       "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Melbourne Cricket Ground, Melbourne",
-      "status": "AUS won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "status": "SPR won",
       "score": []
     },
     {
@@ -44,8 +20,32 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
+      "venue": "Jadavpur University Campus 2nd Ground, Kolkata",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
       "venue": "Allan Border Field, Brisbane",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "status": "MIE won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Melbourne Cricket Ground, Melbourne",
+      "status": "AUS won",
       "score": []
     }
   ]
