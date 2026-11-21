@@ -3,33 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Basin Reserve, Wellington",
-      "status": "Tea",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "T20",
-      "venue": "Bellerive Oval, Hobart",
+      "venue": "Melbourne Cricket Ground, Melbourne",
       "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Melbourne Cricket Ground, Melbourne",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "ODI",
-      "venue": "West End Park International Cricket Stadium, Doha",
-      "status": "INDA won",
+      "matchType": "TEST",
+      "venue": "Basin Reserve, Wellington",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -38,6 +22,22 @@
       "matchType": "T20",
       "venue": "Dubai International Cricket Stadium, Dubai",
       "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "North Sydney Oval, Sydney",
+      "status": "SYSW won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "West End Park International Cricket Stadium, Doha",
+      "status": "INDA won",
       "score": []
     },
     {
