@@ -5,7 +5,23 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Basin Reserve, Wellington",
-      "status": "Stumps",
+      "status": "Tea",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Bellerive Oval, Hobart",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Melbourne Cricket Ground, Melbourne",
+      "status": "Preview",
       "score": []
     },
     {
@@ -20,32 +36,16 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "status": "UBL won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "status": "UBL won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Melbourne Cricket Ground, Melbourne",
+      "venue": "Dubai International Cricket Stadium, Dubai",
       "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "status": "PAK won",
+      "matchType": "T20",
+      "venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "status": "UBL won",
       "score": []
     }
   ]
