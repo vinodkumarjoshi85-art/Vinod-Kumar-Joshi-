@@ -3,14 +3,6 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Basin Reserve, Wellington",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "ODI",
       "venue": "West End Park International Cricket Stadium, Doha",
       "status": "Preview",
@@ -20,32 +12,40 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Jadavpur University Campus 2nd Ground, Kolkata",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
       "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
+      "matchType": "TEST",
+      "venue": "Basin Reserve, Wellington",
+      "status": "Stumps",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
-      "venue": "Allan Border Field, Brisbane",
+      "venue": "Junction Oval, Melbourne",
+      "status": "Ings Break",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "TEST",
+      "venue": "SuperSport Park, Centurion",
       "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Dubai International Cricket Stadium, Dubai",
-      "status": "MIE won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Melbourne Cricket Ground, Melbourne",
-      "status": "AUS won",
       "score": []
     }
   ]
