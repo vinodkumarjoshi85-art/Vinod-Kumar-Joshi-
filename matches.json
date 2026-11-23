@@ -4,32 +4,16 @@
       "name": "",
       "teams": [],
       "matchType": "TEST",
-      "venue": "Basin Reserve, Wellington",
+      "venue": "SuperSport Park, Centurion",
       "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "West End Park International Cricket Stadium, Doha",
-      "status": "PAKA won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Dubai International Cricket Stadium, Dubai",
-      "status": "ADKR won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
-      "venue": "SuperSport Park, Centurion",
-      "status": "Preview",
+      "venue": "Basin Reserve, Wellington",
+      "status": "Draw",
       "score": []
     },
     {
@@ -43,9 +27,25 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "ODI",
+      "venue": "West End Park International Cricket Stadium, Doha",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "T20",
-      "venue": "Holkar Stadium, Indore",
-      "status": "TN won",
+      "venue": "Carrara Oval, Queensland",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "ODI",
+      "venue": "University of Doha for Science and Technology, Doha",
+      "status": "Preview",
       "score": []
     }
   ]
