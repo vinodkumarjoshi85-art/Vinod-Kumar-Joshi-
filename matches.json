@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "SuperSport Park, Centurion",
-      "status": "Stumps",
+      "matchType": "ODI",
+      "venue": "University of Doha for Science and Technology, Doha",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "University of Doha for Science and Technology, Doha",
-      "status": "Preview",
+      "matchType": "TEST",
+      "venue": "SuperSport Park, Centurion",
+      "status": "Lunch",
       "score": []
     },
     {
@@ -21,6 +21,22 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Carrara Oval, Queensland",
+      "status": "In Progress",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "status": "KAR won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Dubai International Cricket Stadium, Dubai",
       "status": "Preview",
       "score": []
     },
@@ -28,23 +44,7 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "DV won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "TEST",
-      "venue": "Basin Reserve, Wellington",
-      "status": "Draw",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Daly College Ground, Indore",
+      "venue": "Junction Oval, Melbourne",
       "status": "Preview",
       "score": []
     }
