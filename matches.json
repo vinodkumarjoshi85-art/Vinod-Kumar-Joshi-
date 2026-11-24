@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "University of Doha for Science and Technology, Doha",
-      "status": "In Progress",
+      "status": "INDA won",
       "score": []
     },
     {
@@ -13,23 +13,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "SuperSport Park, Centurion",
-      "status": "Lunch",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Carrara Oval, Queensland",
-      "status": "In Progress",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
-      "status": "KAR won",
+      "status": "Stumps",
       "score": []
     },
     {
@@ -37,6 +21,22 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Dubai International Cricket Stadium, Dubai",
+      "status": "GG won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Carrara Oval, Queensland",
+      "status": "ENG won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Karwan Cricket Ground, Ajman",
       "status": "Preview",
       "score": []
     },
