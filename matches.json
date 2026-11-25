@@ -3,17 +3,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "University of Doha for Science and Technology, Doha",
-      "status": "INDA won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "TEST",
       "venue": "SuperSport Park, Centurion",
-      "status": "Stumps",
+      "status": "RSA won",
       "score": []
     },
     {
@@ -21,22 +13,22 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Dubai International Cricket Stadium, Dubai",
-      "status": "GG won",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Carrara Oval, Queensland",
-      "status": "ENG won",
+      "venue": "Acharya Stadium, Bengaluru",
+      "status": "Preview",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "T20",
-      "venue": "Karwan Cricket Ground, Ajman",
+      "matchType": "ODI",
+      "venue": "West End Park International Cricket Stadium, Doha",
       "status": "Preview",
       "score": []
     },
@@ -45,7 +37,15 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Junction Oval, Melbourne",
-      "status": "Preview",
+      "status": "MLRW won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Karwan Cricket Ground, Ajman",
+      "status": "SLW won",
       "score": []
     }
   ]
