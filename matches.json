@@ -3,25 +3,17 @@
     {
       "name": "",
       "teams": [],
+      "matchType": "T20",
+      "venue": "Dubai International Cricket Stadium, Dubai",
+      "status": "DCP won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
       "matchType": "TEST",
       "venue": "SuperSport Park, Centurion",
       "status": "RSA won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Dubai International Cricket Stadium, Dubai",
-      "status": "Preview",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
-      "matchType": "T20",
-      "venue": "Acharya Stadium, Bengaluru",
-      "status": "Preview",
       "score": []
     },
     {
@@ -36,16 +28,24 @@
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Junction Oval, Melbourne",
-      "status": "MLRW won",
+      "venue": "Acharya Stadium, Bengaluru",
+      "status": "ANDW won",
       "score": []
     },
     {
       "name": "",
       "teams": [],
       "matchType": "T20",
-      "venue": "Karwan Cricket Ground, Ajman",
-      "status": "SLW won",
+      "venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "status": "Preview",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "Junction Oval, Melbourne",
+      "status": "MLRW won",
       "score": []
     }
   ]
