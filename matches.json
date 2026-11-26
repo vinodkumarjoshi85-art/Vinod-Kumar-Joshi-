@@ -3,17 +3,17 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "ODI",
-      "venue": "West End Park International Cricket Stadium, Doha",
-      "status": "Ings Break",
+      "matchType": "TEST",
+      "venue": "Hagley Oval, Christchurch",
+      "status": "In Progress",
       "score": []
     },
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "Hagley Oval, Christchurch",
-      "status": "Preview",
+      "matchType": "ODI",
+      "venue": "West End Park International Cricket Stadium, Doha",
+      "status": "SLA won",
       "score": []
     },
     {
@@ -21,6 +21,14 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "status": "MIE won",
+      "score": []
+    },
+    {
+      "name": "",
+      "teams": [],
+      "matchType": "T20",
+      "venue": "The Gabba, Brisbane",
       "status": "Preview",
       "score": []
     },
@@ -35,17 +43,9 @@
     {
       "name": "",
       "teams": [],
-      "matchType": "TEST",
-      "venue": "SuperSport Park, Centurion",
-      "status": "RSA won",
-      "score": []
-    },
-    {
-      "name": "",
-      "teams": [],
       "matchType": "T20",
-      "venue": "North Sydney Oval, Sydney",
-      "status": "SYTW won",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "Preview",
       "score": []
     }
   ]
