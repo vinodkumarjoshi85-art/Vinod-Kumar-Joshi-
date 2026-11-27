@@ -5,7 +5,7 @@
       "teams": [],
       "matchType": "TEST",
       "venue": "Hagley Oval, Christchurch",
-      "status": "Stumps",
+      "status": "In Progress",
       "score": []
     },
     {
@@ -13,7 +13,7 @@
       "teams": [],
       "matchType": "ODI",
       "venue": "West End Park International Cricket Stadium, Doha",
-      "status": "Ings Break",
+      "status": "PAKA won",
       "score": []
     },
     {
@@ -21,7 +21,7 @@
       "teams": [],
       "matchType": "T20",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "status": "Preview",
+      "status": "SW won",
       "score": []
     },
     {
